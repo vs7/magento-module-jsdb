@@ -1,0 +1,4 @@
+app/code/community/VS7/JSDB                             app/code/community/VS7/JSDB
+app/design/frontend/base/default/layout/vs7_jsdb.xml    app/design/frontend/base/default/layout/vs7_jsdb.xml
+app/etc/modules/VS7_JSDB.xml                            app/etc/modules/VS7_JSDB.xml
+skin/frontend/base/default/vs7_jsdb                     skin/frontend/base/default/vs7_jsdb
